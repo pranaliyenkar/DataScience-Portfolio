@@ -19,6 +19,10 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 - [End_to_End_ML_Std_Score_Prediction_Project](MachineLearning_Projects/End_to_End_ML_Std_Score_Prediction_Project)
 - [End_to_End_ML_Project_4/House_Prediction](MachineLearning_Projects/End_to_End_ML_Project_4/House_Prediction)
 
+  ## 💬 Deep Learning Projects
+- [Churn_Prediction_Analysis](Deep_Learning_Projects/Project1_Churn_Prediction)
+- [Handwriting_Analysis](Deep_Learning_Projects/Project2_handwriting)
+
 ## 💬 NLP Projects
 - [p1](NLP_Projects/p1)
 - [p2](NLP_Projects/p2)
@@ -36,6 +40,7 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 📬 **Connect with me:**  
 
 [LinkedIn](https://linkedin.com/in/pranali-piyush-yenkar) | [Email](pranaliyenkar@yahoo.com)# DataScience-Portfolio
+
 
 
 
