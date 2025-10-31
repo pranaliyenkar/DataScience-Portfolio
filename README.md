@@ -28,4 +28,5 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 ---
 
 📬 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/pranali-piyush-yenkar) | [Email](mailto:Ypranaliyenkar@yahoo.com)# DataScience-Portfolio
+
+[LinkedIn](https://linkedin.com/in/pranali-piyush-yenkar) | [Email](pranaliyenkar@yahoo.com)# DataScience-Portfolio
