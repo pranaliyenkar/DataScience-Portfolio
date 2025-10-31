@@ -6,19 +6,25 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 ---
 
 ## 📊 Power BI Projects
-- [p1](PowerBI_Projects/p1)
-- [p2](PowerBI_Projects/p2)
+- [Bank_Churn](PowerBI_Projects/Bank_Churn)
+- [Hospital](PowerBI_Projects/Hospital)
+- [IPL_Analysis](PowerBI_Projects/IPL_Analysis)
+- [Telecom_Churn](PowerBI_Projects/Telecom_Churn)
+- [Uber_Data_Analysis](PowerBI_Projects/Uber_Data_Analysis)
 
 ## 🤖 Machine Learning Projects
-- [p1](MachineLearning_Projects/Cp1)
-- [p2](MachineLearning_Projects/p2)
+- [Sales_Data_EDA](MachineLearning_Projects/Sales_Data_EDA)
+- [Netflix_Analysis_EDA](MachineLearning_Projects/Netflix_Analysis_EDA)
+- [IPL_Win_Probability_EDA](MachineLearning_Projects/IPL_Win_Probability_EDA)
+- [End_to_End_ML_Std_Score_Prediction_Project](MachineLearning_Projects/End_to_End_ML_Std_Score_Prediction_Project)
+- [End_to_End_ML_Project_4/House_Prediction](MachineLearning_Projects/End_to_End_ML_Project_4/House_Prediction)
 
 ## 💬 NLP Projects
 - [p1](NLP_Projects/p1)
 - [p2](NLP_Projects/p2)
 
 ## 💬 Excel Projects
-- [p1](Excel/p1)
+- [FnP](Excel/FnP)
 
 ---
 
@@ -30,3 +36,4 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 📬 **Connect with me:**  
 
 [LinkedIn](https://linkedin.com/in/pranali-piyush-yenkar) | [Email](pranaliyenkar@yahoo.com)# DataScience-Portfolio
+
