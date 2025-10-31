@@ -24,7 +24,7 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 - [p2](NLP_Projects/p2)
 
 ## 💬 Excel Projects
-- [FnP](Excel/FnP)
+- [FnP](Excel_Projects/FnP)
 
 ---
 
@@ -36,5 +36,6 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 📬 **Connect with me:**  
 
 [LinkedIn](https://linkedin.com/in/pranali-piyush-yenkar) | [Email](pranaliyenkar@yahoo.com)# DataScience-Portfolio
+
 
 
