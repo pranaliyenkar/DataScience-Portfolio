@@ -7,7 +7,7 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 
 ## 📊 Power BI Projects
 - [Bank_Churn](PowerBI_Projects/Bank_Churn)
-- [Hospital](PowerBI_Projects/Hospital)
+- [Hospital](PowerBI_Projects/Hospital_Reports)
 - [IPL_Analysis](PowerBI_Projects/IPL_Analysis)
 - [Telecom_Churn](PowerBI_Projects/Telecom_Churn)
 - [Uber_Data_Analysis](PowerBI_Projects/Uber_Data_Analysis)
@@ -36,4 +36,5 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 📬 **Connect with me:**  
 
 [LinkedIn](https://linkedin.com/in/pranali-piyush-yenkar) | [Email](pranaliyenkar@yahoo.com)# DataScience-Portfolio
+
 
