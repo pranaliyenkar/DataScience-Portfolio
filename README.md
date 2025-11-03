@@ -17,7 +17,7 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 - [Netflix_Analysis_EDA](MachineLearning_Projects/Netflix_Analysis_EDA)
 - [IPL_Win_Probability_EDA](MachineLearning_Projects/IPL_Win_Probability_EDA)
 - [End_to_End_ML_Std_Score_Prediction_Project](MachineLearning_Projects/End_to_End_ML_Std_Score_Prediction_Project)
-- [End_to_End_ML_Project_4/House_Prediction](MachineLearning_Projects/End_to_End_ML_Project_4/House_Prediction)
+- [End_to_End_ML_Project_4/House_Prediction](MachineLearning_Projects/House_Prediction)
 
 ## 💬 Deep Learning Projects
 - [Churn_Prediction_Analysis](Deep_Learning_Projects/Project1_Churn_Prediction)
@@ -40,6 +40,7 @@ This repository showcases my projects across **Excel**,**Power BI**, **Machine L
 📬 **Connect with me:**  
 
 [LinkedIn](https://linkedin.com/in/pranali-piyush-yenkar) | [Email](pranaliyenkar@yahoo.com)# DataScience-Portfolio
+
 
 
 
