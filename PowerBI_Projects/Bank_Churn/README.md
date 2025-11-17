@@ -1,6 +1,6 @@
-# 📊 Customer Churn Analysis — Power BI Dashboard
+# Customer Churn Analysis — Power BI Dashboard
 
-## 🧾 Overview
+##  Overview
 
 The **Customer Churn Analysis Dashboard** provides an interactive visualization of customer behavior, churn trends, and retention patterns.
 It helps identify key drivers behind customer attrition and offers actionable insights to improve customer retention and engagement strategies.
@@ -8,7 +8,7 @@ It helps identify key drivers behind customer attrition and offers actionable in
 This project is built using **Microsoft Power BI** and connects customer-related datasets to create meaningful KPIs and visual analytics.
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze **customer churn rate** across time periods, geographies, and demographics.
 * Identify **patterns between credit card usage, gender, and churn behavior**.
@@ -72,7 +72,7 @@ A matrix with visual indicators showing **monthly churn rates** per year (2016�
 
 ---
 
-## 🧮 Filters / Slicers
+##  Filters / Slicers
 
 Users can filter dashboard insights by:
 
@@ -87,7 +87,7 @@ These slicers provide full interactivity for drill-down and custom analysis.
 
 ---
 
-## 🧠 Insights Highlight
+##  Insights Highlight
 
 * Churn rates vary across months with peaks around mid-year.
 * **France** holds the largest customer base (~50%) but also shows consistent churn.
@@ -97,7 +97,7 @@ These slicers provide full interactivity for drill-down and custom analysis.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Microsoft Power BI Desktop**
 * **Data Modeling (DAX, Power Query)**
