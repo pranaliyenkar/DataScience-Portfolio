@@ -1,13 +1,13 @@
 # **Turning Raw Sales Data into Actionable Business Insights with Python**
 
-## 📌 Overview  
+##  Overview  
 Analyzed 12 months of electronics store sales data using **Python**, **Pandas**, and **Matplotlib** to uncover key business insights.  
 After cleaning and preparing the dataset (removing missing values, fixing data types, and merging monthly CSVs), I explored questions such as the **best month for sales**, **top-selling cities**, **peak advertisement times**, and **products frequently bought together**.  
 The analysis combined grouping, aggregation, and visualization techniques to reveal patterns in customer behavior, identify top-performing products, and suggest opportunities for marketing and inventory optimization.  
  
 ---
 
-## 🛠 Key Steps  
+##  Key Steps  
 
 ### **1. Data Cleaning**  
 - Removed missing values and irrelevant rows  
@@ -24,14 +24,14 @@ Explored and answered five main business questions:
 
 ---
 
-## 🧰 Techniques & Tools  
+##  Techniques & Tools  
 - **Data Manipulation:** `pandas` (`concat`, `apply`, `groupby`, `.str` methods)  
 - **Data Visualization:** `matplotlib` (bar charts, line graphs with labels)  
 - **Exploratory Analysis:** Aggregation, filtering, and cross-variable analysis  
 
 ---
 
-## 💡 Insights  
+##  Insights  
 The analysis revealed:  
 - Peak sales months and total revenue trends  
 - Cities generating the most sales  
@@ -43,9 +43,10 @@ These findings can guide **marketing strategies, inventory planning, and promoti
 
 ---
 
-## ⚙ Tech Stack  
+##  Tech Stack  
 - **Languages & Libraries:** Python, Pandas, Matplotlib  
 - **Dataset:** 12 months of historical sales CSV files  
 
 ---
+
 
