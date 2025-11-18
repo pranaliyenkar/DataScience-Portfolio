@@ -75,5 +75,4 @@ This project builds an **Artificial Neural Network (ANN)** to predict whether a 
 
 ---
 
-## 📁 Project Structure
 
