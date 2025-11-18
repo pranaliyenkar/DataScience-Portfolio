@@ -30,7 +30,7 @@ This project builds an **Artificial Neural Network (ANN)** to predict whether a 
 
 ---
 
-## 🚀 Project Pipeline
+##  Project Pipeline
 
 ### **1. Data Preprocessing**
 - Loaded dataset and inspected structure  
@@ -57,7 +57,6 @@ This project builds an **Artificial Neural Network (ANN)** to predict whether a 
 ---
 
 ##  Example Results  
-> (Your results may vary depending on hyperparameters)
 
 - **Accuracy:** ~86%  
 - **ANN successfully identifies key churn-related features**  
