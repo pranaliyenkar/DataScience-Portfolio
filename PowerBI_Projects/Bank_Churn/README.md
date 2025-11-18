@@ -16,7 +16,7 @@ This project is built using **Microsoft Power BI** and connects customer-related
 * Track **monthly exit trends** and understand **customer retention efficiency**.
 ---
 
-## 📈 Key Metrics
+##  Key Metrics
 
 | Metric                      | Description                                |
 | --------------------------- | ------------------------------------------ |
@@ -30,7 +30,7 @@ This project is built using **Microsoft Power BI** and connects customer-related
 
 ---
 
-## 📊 Dashboard Sections & Visuals
+##  Dashboard Sections & Visuals
 
 ### 1. **KPI Summary Tiles**
 
